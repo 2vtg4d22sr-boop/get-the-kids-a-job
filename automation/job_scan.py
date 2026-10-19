@@ -22,11 +22,22 @@ BAILEY:
 
 MORGAN:
 - Greater St. Louis + Metro East within roughly 45 minutes of Collinsville, IL; hybrid/remote US included.
-- Full-time stable roles. Prefer >=$50K and prioritize $55K-$70K. $47K-$50K only unusually strong. Salary-undisclosed may be retained if strong.
+- Full-time roles retain established salary preferences ($50K+ preferred, prioritize $55K–$70K; exceptional $47K–$50K). Also include part-time and internships, especially remote; see Morgan publishing expansion below.
 - Marketing/communications, social/content, multimedia/video, production coordination, publishing/editorial, brand/creative coordination, event marketing, film/entertainment production.
 - Background: BA English, Cinema minor; Wise Pod co-producer/social media manager; short-form editing, social calendar, analytics, graphics; production internship; arts/entertainment editor; film festival design; Premiere Pro, Photoshop basic, DaVinci Resolve, Canva, O365/Google.
 - No InDesign/Illustrator. Do not convert projects/internships into years of specialized full-time experience.
 - Omit roles requiring 2+ years specialized experience plus critical unsupported tools/domain expertise or senior management.
+
+MORGAN PUBLISHING EXPANSION — October 19, 2026. These Morgan-only instructions supersede conflicting full-time-only, part-time/internship exclusions, and annual salary floor rules above. Bailey's criteria remain unchanged.
+Search EACH Big Five publisher's official U.S. career and internship pages every scan, including their imprints and linked applicant portals:
+1. Penguin Random House https://careers.penguinrandomhouse.com/ and https://careers.penguinrandomhouse.com/internships/
+2. HarperCollins https://careers-harpercollins.icims.com/jobs/
+3. Simon & Schuster https://www.simonandschuster.biz/p/careers-at-simon-schuster
+4. Hachette Book Group https://jobs.jobvite.com/hachette-book-group/search
+5. Macmillan Publishers https://us.macmillan.com/careers/
+Also search Publishers Lunch / Publishers Marketplace https://www.publishersmarketplace.com/jobs/index.cgi ; Shelf Awareness https://www.shelf-awareness.com/jobboard ; Publishers Weekly PW JobZone https://jobzone.publishersweekly.com/ ; AAP Career Center https://members.publishers.org/networking/opening_search.asp ; Bookjobs.com https://www.bookjobs.com/ . Follow current official redirects. Use boards for discovery and verify exact employer postings. Check independent/university publishers through these boards too.
+Include full-time, part-time and internship roles for Morgan, with particular priority for remote U.S. opportunities. Paid opportunities preferred; clearly label unpaid or pay-unknown internships for review, never imply paid. Do not apply the $50K annual floor to part-time or internships. Report actual hourly pay/stipend, expected hours, duration, benefits and internship dates/deadlines when published; do not assume 40 hours or annualize without labeling assumptions. Keep existing full-time salary preferences. Local onsite/hybrid roles stay within ~45 minutes of Collinsville; remote must permit work from Illinois. Exceptional out-of-market roles may be flagged for relocation; do not treat hybrid NYC as remote.
+Search editorial/publishing assistants, publicity/marketing assistants, production/managing-editorial assistants, rights/permissions support, social/content and audiobook/video support when experience matches. Check current-student/recent-graduate eligibility against Morgan's May 2025 graduation; exclude incompatible enrollment requirements. Preserve other fit gates and all user statuses/notes/archive choices. Log each required source as searched, blocked or no qualifying results; never claim complete coverage if skipped. Use exact job links, never generic search pages as application links.
 
 FOR EVERY RETAINED JOB:
 - Verify currentness using employer-hosted careers/posting whenever possible.
